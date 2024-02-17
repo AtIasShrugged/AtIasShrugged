@@ -16,9 +16,9 @@ I really love my job, so i expect interesting challenges along with an friendly 
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Main Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=go,postgres,mongodb,rabbitmq,redis,prometheus,graphql,nodejs,js,ts&perline=5" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,vue,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=go,postgres,mongodb,rabbitmq,redis,graphql,nodejs,js,ts,vue&perline=5" />
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,gitlab&perline=5" />
     <br>
   </p>
 </details>
