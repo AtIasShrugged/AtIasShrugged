@@ -12,7 +12,6 @@ I'm a backend developer from Ukraine, currently looking for a job.
 
 I really love my job, so i expect interesting challenges along with an friendly team. Especially interested in work on some complex highload project.
 
-<details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Main Technologies</h3>
@@ -21,4 +20,3 @@ I really love my job, so i expect interesting challenges along with an friendly 
     <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,gitlab&perline=5" />
     <br>
   </p>
-</details>
